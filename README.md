@@ -48,7 +48,6 @@ The GUI allows both **kinematic calculations (FK/IK)** and **real-time control**
 - `sendDataOverUSBToArduino.m` – Serial comm handler  
 - `sendPulseRow.m` – Sends multiple servo values  
 - `transition.m` – Smooth trajectory handling  
-- `final.m` – Main App Designer GUI  
 
 ---
 
@@ -59,4 +58,4 @@ The GUI allows both **kinematic calculations (FK/IK)** and **real-time control**
 
 ---
 
-- Developed by Mohammad Mahdi Khaligh
+-     Developed by Mohammad Mahdi Khaligh
