@@ -8,7 +8,6 @@ The GUI allows both **kinematic calculations (FK/IK)** and **real-time control**
 
 ##  GUI Features
 ![Delta Robot GUI](Screenshot%20from%202025-09-07%2014-39-25.png)
-- ![Delta Robot GUI](Screenshot from 2025-09-07 14-39-25.png)
 - **Joint Angle Input (θ1, θ2, θ3)** – manually set servo angles  
 - **Cartesian Coordinates Input (X, Y, Z)** – move end-effector by position  
 - **Pulse Control** – send raw pulse values to servos  
@@ -59,4 +58,7 @@ The GUI allows both **kinematic calculations (FK/IK)** and **real-time control**
 
 ---
 
--     Developed by Mohammad Mahdi Khaligh
+## How to Use 
+- Download the project and change the directory and
+-     deltaArdu
+Developed by Mohammad Mahdi Khaligh
